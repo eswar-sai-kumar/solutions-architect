@@ -1,0 +1,35 @@
+## Serverless
+- Serverless services in AWS
+- Benefits of AWS Lambda
+- AWS Lambda Integrations
+- Serverless Thumbnail creation
+- AWS Lambda pricing
+- AWS Lambda Limits to know - per region
+- Lambda concurrency and throttling
+- Reserved Concurrency
+- Cold starts and Provisioned concurrency
+- Lambda snapstart
+- Customization at the edge (Cloudfront functions and Lambda@Edge)
+- CloudFront functions vs Lambda@Edge
+- Lambda by default
+- Lambda in VPC
+- Lambda with RDS proxy
+- Invoking Lambda from RDS(PostgreSQL) and Aurora (MySQL)
+- RDS Event Notifications
+- Amazon DynamoDB
+- DynamoDB - Table Example
+- DynamoDB - Read/Write Capacity Modes (Provisoned mode(default),On-Demand Mode)
+- DynamoDB Acceleartor(DAX)
+- DAX vs Elasticache
+- DynamoDB Stream processing
+- DynamoDB Global Tables (must enable streams)
+- DynamoDB TTL
+- DynamoDB - Backups for disaster recovery (continuous backups, on demand backups)
+- DynamoDB - Integration with S3 (Export to S3(must enable PITR), Import from S3)
+- AWS API Gateway
+- API Gateway - Integrations (Lambda, HTTP, AWS Service like Kinesis)
+- API Gateway Endpoint types (Edge-optimized, regional, private)
+- API Gateway Security 
+- AWS Step Functions
+- Amazon Cognito (Cognito User Pools, Cognito Identity Pools)
+  
